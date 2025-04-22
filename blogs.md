@@ -12,6 +12,12 @@ I cook to eat and, much to the confusion of the people around me, I like the pro
 
 - [Granola](/blogs/chef/granola)
 
+### The chronicles of an underthinker
+Enclosed within are the woefully unproductive thoughts, usually formed on my throne of porcelain.
+
+- [I'm bored of music](/blogs/underthinker/im-bored-of-music)
+
+
 ## How often do I add more blogs?
 When I feel like it. Go away. I'm not a "content creator".
 
