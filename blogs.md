@@ -9,6 +9,7 @@ As you probably don't know - due to my complete lack of presence in most peoples
 
 - [The fear of the impossible](/blogs/ruminations/the-fear-of-the-impossible)
 - [Engineers and AI: ramblings of a small startup founder](/blogs/ruminations/engineers-and-ai.md)
+
 ### The dubious preparations of a self-proclaimed sustenance chef
 I cook to eat and, much to the confusion of the people around me, I like the process of cooking just as much as I enjoy eating my food. I sometimes do alright, but I eat what I cook even if it looks more like kibble than kibble itself. Contained within this digital log, you may find some of my successes as well as my failures because who learns to sautee mustard seeds until they splatter faster than someone who has had to chomp down on copious quantities of raw, bitter bombs?
 
