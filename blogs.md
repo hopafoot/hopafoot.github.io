@@ -8,7 +8,7 @@ I don't know what you'll see from me going forward, but for now, you should see 
 As you probably don't know - due to my complete lack of presence in most peoples' lives - I became a self proclaimed CTO while still in University. I wanted to change the world, the way people communicate, so I started a company with a friend, Since, I have had no idea what I was doing, so here we are. My blogs.
 
 - [The fear of the impossible](/blogs/ruminations/the-fear-of-the-impossible)
-
+- [Engineers and AI: ramblings of a small startup founder](/blogs/ruminations/engineers-and-ai.md)
 ### The dubious preparations of a self-proclaimed sustenance chef
 I cook to eat and, much to the confusion of the people around me, I like the process of cooking just as much as I enjoy eating my food. I sometimes do alright, but I eat what I cook even if it looks more like kibble than kibble itself. Contained within this digital log, you may find some of my successes as well as my failures because who learns to sautee mustard seeds until they splatter faster than someone who has had to chomp down on copious quantities of raw, bitter bombs?
 

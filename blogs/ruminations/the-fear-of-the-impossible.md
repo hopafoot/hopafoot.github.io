@@ -27,4 +27,4 @@ I've done this a little longer than I thought I'd survive at the start. I still 
 
 I seem to have this blind confidence that I can solve a problem when it comes up. I usually do, but sometimes I don't. I can forgive myself when I don't. I need this confidence to keep going and if I'm being honest, for the most part, it's worked out. I don't think I'm special with this, I think that having some blind faith in yourself is a good thing when you're being ambitious. This needs to come with self-forgiveness in order to keep pushing past mistakes. God knows I've made mistakes and I can promise you that I'll make so many more. Let's just hope that none of them bury this dream of mine, and hopefully I can forgive myself if it does.
 
-*First posted 2025-05-21*
+*First posted 2025-05-12*
