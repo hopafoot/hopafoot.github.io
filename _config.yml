@@ -3,3 +3,7 @@ description: Welcome to my site that will perpetually be under construction.
 remote_theme: hopafoot/thinkspace-theme
 plugins:
   - jekyll-remote-theme
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true 
