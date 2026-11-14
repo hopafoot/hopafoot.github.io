@@ -7,12 +7,6 @@ I don't know what you'll see from me going forward, but for now, you should see 
 ### Making things
 My [hobbies](/hobby.md) typically involve me making things. I don't claim that everything that I make is a masterpiece, and if you do, I'd know you were a liar. Still, I love exploring craft.
 
-### The ruminations
-Thoughts that I couldn't seem to get out of my head and felt the need to write down
-
-- [The fear of the impossible](/blogs/ruminations/the-fear-of-the-impossible)
-- [Engineers and AI: ramblings of a small startup founder](/blogs/ruminations/engineers-and-ai.md)
-
 ### The dubious preparations of a self-proclaimed sustenance chef
 I cook to eat and, much to the confusion of the people around me, I like the process of cooking just as much as I enjoy eating my food. I sometimes do alright, but I eat what I cook even if it looks more like kibble than kibble itself. Contained within this digital log you may find some of my successes as well as my failures.
 
@@ -23,6 +17,12 @@ I cook to eat and, much to the confusion of the people around me, I like the pro
 Enclosed within are the woefully unproductive thoughts, usually formed on my throne of porcelain.
 
 - [I'm bored of music](/blogs/underthinker/im-bored-of-music)
+
+### The ruminations
+Thoughts that I couldn't seem to get out of my head and felt the need to write down
+
+- [The fear of the impossible](/blogs/ruminations/the-fear-of-the-impossible)
+- [Engineers and AI: ramblings of a small startup founder](/blogs/ruminations/engineers-and-ai.md)
 
 
 ## How often do I add more blogs?
