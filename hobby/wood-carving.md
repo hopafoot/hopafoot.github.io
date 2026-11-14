@@ -1,7 +1,7 @@
 # Wood carving
-This is the hobby that I've spent the longest time on. I started with whittling, whih made me realize that I **ADORE** taking something and uncovering something inside it.
+This is the hobby that I've spent the longest time on. I started with whittling, which made me realize that I **ADORE** taking something and uncovering something that was always _inside_ it.
 
-I adore how relaxing it is, how few tools you need to get started, and how much you can progress with just deliberate effort. There aren't many secrets with it, and there is next to nothing that you can pay your way out of. 
+I love how relaxing it is, how few tools you need to get started, and how much you can progress with just deliberate effort. There aren't many secrets with it, and there is next to nothing that you can pay your way out of. 
 
 ## My tool kit
 ![My tools](/hobby/wood-carving/tools/toolkit.jpg)
@@ -22,13 +22,13 @@ My first ever carving was a [squirrel](/hobby/wood-carving/pieces/squirrel.jpg).
 
 I've whittled a few other things over the years, but I've given them all away. Examples include a couple of gnomes, and a generic buff dude that I left on top of the power rack at my old gym (I didn't see him the next time I went, so hopefully Arnold's new owner treat's him well).
 
-The other style that I got much more into is chip carving. I was introduced to it by some old videos by a man named Daniel Clay on youtube. I believe he attempted to popularize it in the west many decades ago, based on the swiss version, Kerbschnitzen. I have since found a few other authors on the topic from all over the world, like Tatiana Baldina, a Russian carver (I just checked out a book from the library by her :).
+The other style that I got much more into is chip carving. I was introduced to it by some old videos by a man named Daniel Clay on youtube. I believe he attempted to popularize it in the west many decades ago, based on the Swiss version, Kerbschnitzen. I have since found a few other authors on the topic from all over the world, like Tatiana Baldina, a Russian carver (I just checked out a book from the library by her :).
 
 I find myself drawn to geometric patterns more than anything else, although I have experimented.
 
 ![My first practice board](/hobby/wood-carving/pieces/first-practice-board.jpg)
 
-This was my first practice board. I tried a bunch of different cuts, and even (re)invented some!
+This was my first practice board. I tried a bunch of different cutting techniques, and even (re)invented some!
 
 Here are a couple more simple designs I have laying around my place. Yes, they make great coasters!
 
@@ -37,7 +37,7 @@ Here are a couple more simple designs I have laying around my place. Yes, they m
 ![003](/hobby/wood-carving/pieces/003.jpg)
 ![004](/hobby/wood-carving/pieces/004.jpg)
 
-Of course not all pieces look remotely decent like some of these. For example, this one below was a piece where I attempted layering cuts into each other in a certain way, only to discover a bunch of ways not to do it. Unfortunately the pieve couldn't be salvaged.
+Of course not all pieces look remotely decent. For example, the one below was a piece where I attempted layering cuts into each other in a certain way, only to discover a bunch of ways not to do it. Unfortunately the pieve couldn't be salvaged, even by removing the layers.
 
 ![Crappy layers](/hobby/wood-carving/pieces/crappy-layers.jpg)
 
