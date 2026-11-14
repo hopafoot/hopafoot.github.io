@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
 title: Abhinav
 description: Welcome to my site that will perpetually be under construction.
+remote_theme: hopafoot/thinkspace-theme
+plugins:
+  - jekyll-remote-theme
