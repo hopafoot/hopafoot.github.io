@@ -37,3 +37,5 @@
 
 ## Serve
 Over rice
+
+*First posted 2026-11-11*
