@@ -4,7 +4,7 @@ This is the hobby that I've spent the longest time on. I started with whittling,
 I adore how relaxing it is, how few tools you need to get started, and how much you can progress with just deliberate effort. There aren't many secrets with it, and there is next to nothing that you can pay your way out of. 
 
 ## My tool kit
-![My tools](hobby/wood-carving/tools/toolkit.jpg)
+![My tools](/hobby/wood-carving/tools/toolkit.jpg)
 This is my tool kit; yes, it rolls up and I stitched it myself.
 
 I've got:
@@ -26,20 +26,20 @@ The other style that I got much more into is chip carving. I was introduced to i
 
 I find myself drawn to geometric patterns more than anything else, although I have experimented.
 
-![My first practice board](hobby/wood-carving/pieces/first-practice-board.jpg)
+![My first practice board](/hobby/wood-carving/pieces/first-practice-board.jpg)
 
 This was my first practice board. I tried a bunch of different cuts, and even (re)invented some!
 
 Here are a couple more simple designs I have laying around my place. Yes, they make great coasters!
 
-![001](hobby/wood-carving/pieces/001.jpg)
-![002](hobby/wood-carving/pieces/002.jpg)
-![003](hobby/wood-carving/pieces/003.jpg)
-![004](hobby/wood-carving/pieces/004.jpg)
+![001](/hobby/wood-carving/pieces/001.jpg)
+![002](/hobby/wood-carving/pieces/002.jpg)
+![003](/hobby/wood-carving/pieces/003.jpg)
+![004](/hobby/wood-carving/pieces/004.jpg)
 
 Of course not all pieces look remotely decent like some of these. For example, this one below was a piece where I attempted layering cuts into each other in a certain way, only to discover a bunch of ways not to do it. Unfortunately the pieve couldn't be salvaged.
 
-![Crappy layers](hobby/wood-carving/pieces/crappy-layers.jpg)
+![Crappy layers](/hobby/wood-carving/pieces/crappy-layers.jpg)
 
 I'll figure it out someday though, and when I do, I'm going to turn it into a piece of wall art.
 
